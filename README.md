@@ -1,7 +1,7 @@
-# SODA javascript-tests
+# SODA javascript-tests [![Build Status](https://travis-ci.org/trustinsoda/javascript-tests.svg?branch=master)](https://travis-ci.org/trustinsoda/javascript-tests)
 A suite of javascript tests for front-end and full-stack dev candidates to complete.
 
-Out the box the suite of tests fail, and you must update where appropriate so the build passes.
+Out the box the suite of tests fail (as the Travis CI above icon denotes), and you must update where appropriate so the build passes.
 
 ## How to complete
 ### Get The code
