@@ -1,7 +1,7 @@
 # SODA javascript-tests
 A suite of javascript tests for front-end and full-stack dev candidates to complete.
 
-Out the box the suite of tests fail, and you must update the JS files in ``test`` so the build passes.
+Out the box the suite of tests fail, and you must update where appropriate so the build passes.
 
 ## How to complete
 ### Get The code
@@ -21,4 +21,4 @@ Once you've completed the tests, commit your tests to your github and submit it 
 
 
 #### Credits
-These test are based on those prepared by [Ahemd Nuaman](https://github.com/ahmednuaman)
+These test are based on those prepared by [Ahmed Nuaman](https://github.com/ahmednuaman)
